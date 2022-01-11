@@ -1,10 +1,10 @@
 <template>
-  <div>测试热更新123456asdf</div>
+  <div>测试热更新123456asasdfasd</div>
 </template>
 <script setup>
 // import '../components/test'
 
-import { Test } from '../components/testClass'
+import { Test } from '../utils/test'
 
 const testClass = new Test()
 testClass.test()
