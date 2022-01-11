@@ -4,7 +4,7 @@
 <script setup>
 // import '../components/test'
 
-import { Test } from '../utils/test'
+import { Test } from '../components/testClass'
 
 const testClass = new Test()
 testClass.test()
